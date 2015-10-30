@@ -1,4 +1,4 @@
-extendJars="/home/leo/MySource/StreamPlatform/ShanDongFeature/target/xx.jar"
+extendJars="/home/leo/MySource/StreamPlatform/ShanDongFeature/target/ShanDongFeature-1.0-SNAPSHOT.jar"
 
 rm OCDP_Stream.tar.gz
 

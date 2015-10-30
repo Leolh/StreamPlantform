@@ -9,9 +9,9 @@ object CommonConstant {
 
   val baseDir = ClassLoader.getSystemResource("").getFile()
 
-  val DBConfFile = new File(baseDir, "../conf/common.xml").getCanonicalPath()
+  val DBConfFile = new File(baseDir, "common.xml").getCanonicalPath()
 
-  val log4jConfFile = new File(baseDir, "../conf/log4j.properties").getCanonicalPath()
+  val log4jConfFile = new File(baseDir, "log4j.properties").getCanonicalPath()
 
   val appLogFile = new File(baseDir, "../logs/Stream_APP").getCanonicalPath()
 
